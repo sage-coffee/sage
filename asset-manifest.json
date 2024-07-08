@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b210bfa.css",
-    "main.js": "/static/js/main.1d0b079d.js",
+    "main.css": "/static/css/main.75c741db.css",
+    "main.js": "/static/js/main.951d69cf.js",
     "static/media/anchan.jpg": "/static/media/anchan.ad9d1b05326f09d76aeb.jpg",
     "static/media/brunchpuri with shrimp and anchovy butter.jpg": "/static/media/brunchpuri with shrimp and anchovy butter.bd768fa20a8f19420125.jpg",
     "static/media/cottage cheese pancakes with homemade caramel and apples.jpg": "/static/media/cottage cheese pancakes with homemade caramel and apples.57347ebc7cd7be9a2bc1.jpg",
@@ -57,11 +57,11 @@
     "static/media/aperol spritz.jpg": "/static/media/aperol spritz.6c66539f136de30c9809.jpg",
     "static/media/v60.jpg": "/static/media/v60.a1cabe37404533f90752.jpg",
     "index.html": "/index.html",
-    "main.3b210bfa.css.map": "/static/css/main.3b210bfa.css.map",
-    "main.1d0b079d.js.map": "/static/js/main.1d0b079d.js.map"
+    "main.75c741db.css.map": "/static/css/main.75c741db.css.map",
+    "main.951d69cf.js.map": "/static/js/main.951d69cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b210bfa.css",
-    "static/js/main.1d0b079d.js"
+    "static/css/main.75c741db.css",
+    "static/js/main.951d69cf.js"
   ]
 }
