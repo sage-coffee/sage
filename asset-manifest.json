@@ -1,7 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.95d0961e.css",
-    "main.js": "/static/js/main.82a01277.js",
+    "main.js": "/static/js/main.1c35e2b1.js",
+    "static/media/prosciutto with peach jam.jpg": "/static/media/prosciutto with peach jam.0fcfb62916407113b647.jpg",
+    "static/media/pepperoni with tomato salsa.jpg": "/static/media/pepperoni with tomato salsa.892a6644de1a156baf21.jpg",
+    "static/media/salmon with arugula and cream cheese.jpg": "/static/media/salmon with arugula and cream cheese.319de73b35d536f3a6c7.jpg",
+    "static/media/shrimp with mayo wasabi.jpg": "/static/media/shrimp with mayo wasabi.23433987bfc8210ee8ee.jpg",
+    "static/media/shrimps with arugula.jpg": "/static/media/shrimps with arugula.0353ef7dc66fb06dc87a.jpg",
+    "static/media/caprese.jpg": "/static/media/caprese.a1a26ff8be96807e3bbb.jpg",
+    "static/media/mushroom and truffle pate.jpg": "/static/media/mushroom and truffle pate.8bb139a1b5353e0695d8.jpg",
+    "static/media/croissant roll with creamy scramble and truffle aioli.jpg": "/static/media/croissant roll with creamy scramble and truffle aioli.152f66bd7e7ecd0d3b61.jpg",
+    "static/media/buratta with tomatoes and basil.jpg": "/static/media/buratta with tomatoes and basil.72d9efb35de221aaef0e.jpg",
+    "static/media/prosciutto with peaches and gorgonzola.jpg": "/static/media/prosciutto with peaches and gorgonzola.abe77ce7ecf293c6116c.jpg",
     "static/media/anchan.jpg": "/static/media/anchan.ad9d1b05326f09d76aeb.jpg",
     "static/media/brunchpuri with shrimp and anchovy butter.jpg": "/static/media/brunchpuri with shrimp and anchovy butter.bd768fa20a8f19420125.jpg",
     "static/media/cottage cheese pancakes with homemade caramel and apples.jpg": "/static/media/cottage cheese pancakes with homemade caramel and apples.57347ebc7cd7be9a2bc1.jpg",
@@ -58,10 +68,10 @@
     "static/media/v60.jpg": "/static/media/v60.a1cabe37404533f90752.jpg",
     "index.html": "/index.html",
     "main.95d0961e.css.map": "/static/css/main.95d0961e.css.map",
-    "main.82a01277.js.map": "/static/js/main.82a01277.js.map"
+    "main.1c35e2b1.js.map": "/static/js/main.1c35e2b1.js.map"
   },
   "entrypoints": [
     "static/css/main.95d0961e.css",
-    "static/js/main.82a01277.js"
+    "static/js/main.1c35e2b1.js"
   ]
 }
