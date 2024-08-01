@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.95d0961e.css",
-    "main.js": "/static/js/main.aea31a36.js",
+    "main.js": "/static/js/main.f351bf88.js",
     "static/media/prosciutto with peach jam.jpg": "/static/media/prosciutto with peach jam.0fcfb62916407113b647.jpg",
     "static/media/pepperoni with tomato salsa.jpg": "/static/media/pepperoni with tomato salsa.892a6644de1a156baf21.jpg",
     "static/media/salmon with arugula and cream cheese.jpg": "/static/media/salmon with arugula and cream cheese.319de73b35d536f3a6c7.jpg",
@@ -10,7 +10,7 @@
     "static/media/caprese.jpg": "/static/media/caprese.a1a26ff8be96807e3bbb.jpg",
     "static/media/mushroom and truffle pate.jpg": "/static/media/mushroom and truffle pate.8bb139a1b5353e0695d8.jpg",
     "static/media/croissant roll with creamy scramble and truffle aioli.jpg": "/static/media/croissant roll with creamy scramble and truffle aioli.152f66bd7e7ecd0d3b61.jpg",
-    "static/media/buratta with tomatoes and basil.jpg": "/static/media/buratta with tomatoes and basil.72d9efb35de221aaef0e.jpg",
+    "static/media/burrata with tomatoes and basil.jpg": "/static/media/burrata with tomatoes and basil.72d9efb35de221aaef0e.jpg",
     "static/media/matcha colada.jpg": "/static/media/matcha colada.b565bd3c77877ca57a82.jpg",
     "static/media/exotic matcha.jpg": "/static/media/exotic matcha.a76419eb3a577e04b2de.jpg",
     "static/media/prosciutto with peaches and gorgonzola.jpg": "/static/media/prosciutto with peaches and gorgonzola.abe77ce7ecf293c6116c.jpg",
@@ -54,7 +54,7 @@
     "static/media/bumble.jpg": "/static/media/bumble.938c2cfa13265e293496.jpg",
     "static/media/lemonade strawberry.jpg": "/static/media/lemonade strawberry.c4331e34412309873670.jpg",
     "static/media/cold brew creamy.jpg": "/static/media/cold brew creamy.997863e09b530153bdc2.jpg",
-    "static/media/cottage cheese pancakes with strawberries and sweet cream.jpg": "/static/media/cottage cheese pancakes with strawberries and sweet cream.e53be9b086b83d40d45c.jpg",
+    "static/media/cottage cheese pancakes with berries and sweet cream.jpg": "/static/media/cottage cheese pancakes with berries and sweet cream.e53be9b086b83d40d45c.jpg",
     "static/media/marlborough sun sauvignon blanc bubbles.jpg": "/static/media/marlborough sun sauvignon blanc bubbles.771dadd2312e895cd758.jpg",
     "static/media/mango coconut spritz.jpg": "/static/media/mango coconut spritz.f5187143c8e62fb5dafc.jpg",
     "static/media/filter coffee.jpg": "/static/media/filter coffee.8b8db81ade6a9af9caec.jpg",
@@ -71,10 +71,10 @@
     "static/media/v60.jpg": "/static/media/v60.a1cabe37404533f90752.jpg",
     "index.html": "/index.html",
     "main.95d0961e.css.map": "/static/css/main.95d0961e.css.map",
-    "main.aea31a36.js.map": "/static/js/main.aea31a36.js.map"
+    "main.f351bf88.js.map": "/static/js/main.f351bf88.js.map"
   },
   "entrypoints": [
     "static/css/main.95d0961e.css",
-    "static/js/main.aea31a36.js"
+    "static/js/main.f351bf88.js"
   ]
 }
