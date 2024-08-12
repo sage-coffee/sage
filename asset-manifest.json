@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95d0961e.css",
-    "main.js": "/static/js/main.f351bf88.js",
+    "main.css": "/static/css/main.3a11e288.css",
+    "main.js": "/static/js/main.6731097d.js",
     "static/media/prosciutto with peach jam.jpg": "/static/media/prosciutto with peach jam.0fcfb62916407113b647.jpg",
     "static/media/pepperoni with tomato salsa.jpg": "/static/media/pepperoni with tomato salsa.892a6644de1a156baf21.jpg",
     "static/media/salmon with arugula and cream cheese.jpg": "/static/media/salmon with arugula and cream cheese.319de73b35d536f3a6c7.jpg",
@@ -70,11 +70,11 @@
     "static/media/aperol spritz.jpg": "/static/media/aperol spritz.6c66539f136de30c9809.jpg",
     "static/media/v60.jpg": "/static/media/v60.a1cabe37404533f90752.jpg",
     "index.html": "/index.html",
-    "main.95d0961e.css.map": "/static/css/main.95d0961e.css.map",
-    "main.f351bf88.js.map": "/static/js/main.f351bf88.js.map"
+    "main.3a11e288.css.map": "/static/css/main.3a11e288.css.map",
+    "main.6731097d.js.map": "/static/js/main.6731097d.js.map"
   },
   "entrypoints": [
-    "static/css/main.95d0961e.css",
-    "static/js/main.f351bf88.js"
+    "static/css/main.3a11e288.css",
+    "static/js/main.6731097d.js"
   ]
 }
