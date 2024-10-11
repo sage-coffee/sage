@@ -1,16 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.cb19969a.css",
-    "main.js": "/static/js/main.00541f9f.js",
+    "main.js": "/static/js/main.314cdd78.js",
+    "static/media/oatmeal porridge with banana and crispy granola.jpg": "/static/media/oatmeal porridge with banana and crispy granola.a5042e684fc4616fa7e5.jpg",
     "static/media/header_bg.jpg": "/static/media/header_bg.c3153dcea03cee6238d5.jpg",
+    "static/media/oatmeal porridge with smoked chiken and pesto sause.jpg": "/static/media/oatmeal porridge with smoked chiken and pesto sause.03eaeec12963f0ae1b83.jpg",
+    "static/media/caesar with smoked chiken fillet.jpg": "/static/media/caesar with smoked chiken fillet.155f7182e1186a685659.jpg",
     "static/media/brunchpuri with shrimp and anchovy butter.jpg": "/static/media/brunchpuri with shrimp and anchovy butter.4106608d2ca6c616e599.jpg",
+    "static/media/cottage cheese pancakes with sour cream and cherry compote.jpg": "/static/media/cottage cheese pancakes with sour cream and cherry compote.785b14507bdccea19ac0.jpg",
+    "static/media/bruschetta with strachatella and dried tomatoes.jpg": "/static/media/bruschetta with strachatella and dried tomatoes.844803c060e5f48562fd.jpg",
     "static/media/anchan.jpg": "/static/media/anchan.07d851de563b26a7abb5.jpg",
+    "static/media/bruschetta with salmon.jpg": "/static/media/bruschetta with salmon.4c0ac10c0aef186223d6.jpg",
+    "static/media/rice porridge with coconut milk and peaches.jpg": "/static/media/rice porridge with coconut milk and peaches.47df62eee2d5ed2eb411.jpg",
     "static/media/cottage cheese pancakes with homemade caramel and apples.jpg": "/static/media/cottage cheese pancakes with homemade caramel and apples.0935d1bef6cb38066ff6.jpg",
     "static/media/brunchpuri with smoked chicken, garlic butter and herbes.jpg": "/static/media/brunchpuri with smoked chicken, garlic butter and herbes.fd49a0df762436edef16.jpg",
     "static/media/brunchpuri with pepperoni, garlic butter and herbes.jpg": "/static/media/brunchpuri with pepperoni, garlic butter and herbes.57f69f36e96bc4b5f39c.jpg",
     "static/media/shrimps with arugula.jpg": "/static/media/shrimps with arugula.6e64ccfc39c16521bcd2.jpg",
     "static/media/cappuccino.jpg": "/static/media/cappuccino.421fc6066854553d318d.jpg",
-    "static/media/oatmeal porridge with banana and crispy granola.jpg": "/static/media/oatmeal porridge with banana and crispy granola.da9038fb71fe11c60167.jpg",
     "static/media/tea.jpg": "/static/media/tea.c0f4f981f5a5d8a652d5.jpg",
     "static/media/drip decaf.jpg": "/static/media/drip decaf.abd7a8b8bafc1d0f1dce.jpg",
     "static/media/burrata with tomatoes and basil.jpg": "/static/media/burrata with tomatoes and basil.8c4a2ae810ed353b050e.jpg",
@@ -27,7 +33,6 @@
     "static/media/caprese.jpg": "/static/media/caprese.bbb0e4b093a2e8d2eec2.jpg",
     "static/media/brunchpuri with mushrooms and truffle butter.jpg": "/static/media/brunchpuri with mushrooms and truffle butter.bb1aa5d46ae46157dd1b.jpg",
     "static/media/cocoa.jpg": "/static/media/cocoa.21d57a6255fdb5d0ee51.jpg",
-    "static/media/oatmeal porridge with smoked chiken and pesto sause.jpg": "/static/media/oatmeal porridge with smoked chiken and pesto sause.7278778a039c0b341076.jpg",
     "static/media/bowl with shrimps.jpg": "/static/media/bowl with shrimps.06947f2b2c718861f843.jpg",
     "static/media/prosciutto with peaches and gorgonzola.jpg": "/static/media/prosciutto with peaches and gorgonzola.2365da025711d215fead.jpg",
     "static/media/matcha colada.jpg": "/static/media/matcha colada.aab44d0af882a73bd7be.jpg",
@@ -71,10 +76,10 @@
     "static/media/v60.jpg": "/static/media/v60.de0699d9732d72a5f1b9.jpg",
     "index.html": "/index.html",
     "main.cb19969a.css.map": "/static/css/main.cb19969a.css.map",
-    "main.00541f9f.js.map": "/static/js/main.00541f9f.js.map"
+    "main.314cdd78.js.map": "/static/js/main.314cdd78.js.map"
   },
   "entrypoints": [
     "static/css/main.cb19969a.css",
-    "static/js/main.00541f9f.js"
+    "static/js/main.314cdd78.js"
   ]
 }
