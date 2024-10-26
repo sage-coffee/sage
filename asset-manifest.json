@@ -1,13 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.cb19969a.css",
-    "main.js": "/static/js/main.314cdd78.js",
+    "main.js": "/static/js/main.389f34a6.js",
+    "static/media/oblepiha rosmary tea.jpg": "/static/media/oblepiha rosmary tea.3cfd0e7ee5595d94896f.jpg",
+    "static/media/batumi coffee.jpg": "/static/media/batumi coffee.7d1db724cc347e48c2a7.jpg",
+    "static/media/herbal raspberry tea.jpg": "/static/media/herbal raspberry tea.7a84c3392bf6d7932508.jpg",
+    "static/media/сranberry piquant tea .jpg": "/static/media/сranberry piquant tea .0286e58f4004a3b0b960.jpg",
+    "static/media/pumpkin matcha raf.jpg": "/static/media/pumpkin matcha raf.7bcc6ad68d32c42552a3.jpg",
     "static/media/oatmeal porridge with banana and crispy granola.jpg": "/static/media/oatmeal porridge with banana and crispy granola.a5042e684fc4616fa7e5.jpg",
+    "static/media/spicy cocoa.jpg": "/static/media/spicy cocoa.a2bc37494403e1970c4e.jpg",
     "static/media/header_bg.jpg": "/static/media/header_bg.c3153dcea03cee6238d5.jpg",
+    "static/media/masala.jpg": "/static/media/masala.7f9439b6152dd0e15ada.jpg",
+    "static/media/spicy masala.jpg": "/static/media/spicy masala.7f9439b6152dd0e15ada.jpg",
+    "static/media/cheese raf.jpg": "/static/media/cheese raf.ce3d5eab2421ecf17597.jpg",
+    "static/media/baileys mocha.jpg": "/static/media/baileys mocha.c7ef2152723f62cd5ff5.jpg",
+    "static/media/cognac cappuccino.jpg": "/static/media/cognac cappuccino.91c82d872e354a4cc70d.jpg",
+    "static/media/irish cream.jpg": "/static/media/irish cream.01d3a94e3e3632bbbc49.jpg",
+    "static/media/сoffeetwein.jpg": "/static/media/сoffeetwein.66d9066fcc07a7fbae43.jpg",
     "static/media/oatmeal porridge with smoked chiken and pesto sause.jpg": "/static/media/oatmeal porridge with smoked chiken and pesto sause.03eaeec12963f0ae1b83.jpg",
     "static/media/caesar with smoked chiken fillet.jpg": "/static/media/caesar with smoked chiken fillet.155f7182e1186a685659.jpg",
     "static/media/brunchpuri with shrimp and anchovy butter.jpg": "/static/media/brunchpuri with shrimp and anchovy butter.4106608d2ca6c616e599.jpg",
     "static/media/cottage cheese pancakes with sour cream and cherry compote.jpg": "/static/media/cottage cheese pancakes with sour cream and cherry compote.785b14507bdccea19ac0.jpg",
+    "static/media/baileys coffee.jpg": "/static/media/baileys coffee.38c3021f4e8060ae52c3.jpg",
     "static/media/bruschetta with strachatella and dried tomatoes.jpg": "/static/media/bruschetta with strachatella and dried tomatoes.844803c060e5f48562fd.jpg",
     "static/media/anchan.jpg": "/static/media/anchan.07d851de563b26a7abb5.jpg",
     "static/media/bruschetta with salmon.jpg": "/static/media/bruschetta with salmon.4c0ac10c0aef186223d6.jpg",
@@ -76,10 +90,10 @@
     "static/media/v60.jpg": "/static/media/v60.de0699d9732d72a5f1b9.jpg",
     "index.html": "/index.html",
     "main.cb19969a.css.map": "/static/css/main.cb19969a.css.map",
-    "main.314cdd78.js.map": "/static/js/main.314cdd78.js.map"
+    "main.389f34a6.js.map": "/static/js/main.389f34a6.js.map"
   },
   "entrypoints": [
     "static/css/main.cb19969a.css",
-    "static/js/main.314cdd78.js"
+    "static/js/main.389f34a6.js"
   ]
 }
