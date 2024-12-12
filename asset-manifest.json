@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4e6771d.css",
-    "main.js": "/static/js/main.0adb8d75.js",
+    "main.js": "/static/js/main.93c49892.js",
     "static/media/oblepiha rosmary tea.jpg": "/static/media/oblepiha rosmary tea.3cfd0e7ee5595d94896f.jpg",
     "static/media/batumi coffee.jpg": "/static/media/batumi coffee.7d1db724cc347e48c2a7.jpg",
     "static/media/herbal raspberry tea.jpg": "/static/media/herbal raspberry tea.7a84c3392bf6d7932508.jpg",
@@ -56,7 +56,7 @@
     "static/media/exotic matcha.jpg": "/static/media/exotic matcha.4c0effb358b3a5ab896a.jpg",
     "static/media/berceo brut d.o. cava.jpg": "/static/media/berceo brut d.o. cava.1e65714a1b3da6c9461f.jpg",
     "static/media/tacos cheeseburger.jpg": "/static/media/tacos cheeseburger.859226d4ca4d7a791180.jpg",
-    "static/media/Mulled Wine + sweet gift.jpg": "/static/media/Mulled Wine + sweet gift.86c9a42bc1e6662263f1.jpg",
+    "static/media/mulled wine + sweet gift.jpg": "/static/media/mulled wine + sweet gift.86c9a42bc1e6662263f1.jpg",
     "static/media/casa farive prosecco frizzante treviso doc.jpg": "/static/media/casa farive prosecco frizzante treviso doc.12527d3269d879236030.jpg",
     "static/media/matcha passion.jpg": "/static/media/matcha passion.94480ecac321fc23db82.jpg",
     "static/media/raf.jpg": "/static/media/raf.35d966811e893f4b2cec.jpg",
@@ -75,6 +75,7 @@
     "static/media/tacos with chiken and barbecue sause.jpg": "/static/media/tacos with chiken and barbecue sause.69b775576f6aaddbb32b.jpg",
     "static/media/vento d'estate pinot grigio.jpg": "/static/media/vento d'estate pinot grigio.573181b1bea82373684b.jpg",
     "static/media/espresso tonic grapefruit.jpg": "/static/media/espresso tonic grapefruit.982e2bdf2b385f7e9c2e.jpg",
+    "static/media/flat white \"gingerbread\" + chocolate christmas tree souffle with cherries.jpg": "/static/media/flat white \"gingerbread\" + chocolate christmas tree souffle with cherries.2e79716e07dba03fa440.jpg",
     "static/media/flat white _gingerbread_ + chocolate christmas tree souffle with cherries.jpg": "/static/media/flat white _gingerbread_ + chocolate christmas tree souffle with cherries.2e79716e07dba03fa440.jpg",
     "static/media/esteban martin chardonnay & macabeo.jpg": "/static/media/esteban martin chardonnay & macabeo.b3c5a1bcd2f220258bcb.jpg",
     "static/media/mango coconut spritz.jpg": "/static/media/mango coconut spritz.9af1603d323dba5889ed.jpg",
@@ -103,10 +104,10 @@
     "static/media/v60.jpg": "/static/media/v60.de0699d9732d72a5f1b9.jpg",
     "index.html": "/index.html",
     "main.c4e6771d.css.map": "/static/css/main.c4e6771d.css.map",
-    "main.0adb8d75.js.map": "/static/js/main.0adb8d75.js.map"
+    "main.93c49892.js.map": "/static/js/main.93c49892.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e6771d.css",
-    "static/js/main.0adb8d75.js"
+    "static/js/main.93c49892.js"
   ]
 }
