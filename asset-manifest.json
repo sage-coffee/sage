@@ -1,10 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c4e6771d.css",
-    "main.js": "/static/js/main.93c49892.js",
+    "main.js": "/static/js/main.e3e8d2b4.js",
+    "static/media/french toast with cherries and ice cream.jpg": "/static/media/french toast with cherries and ice cream.ee0d6d0d76df21663897.jpg",
+    "static/media/pasta napolitana.jpg": "/static/media/pasta napolitana.137ddf972ab5d2ae7e0e.jpg",
+    "static/media/croissant benedict.jpg": "/static/media/croissant benedict.159110ff2bdc7a85704b.jpg",
+    "static/media/shakshuka.jpg": "/static/media/shakshuka.580ae80973f89696ffec.jpg",
+    "static/media/pasta cacio e pepe.jpg": "/static/media/pasta cacio e pepe.b7bd667835e78d7d784c.jpg",
+    "static/media/pasta carbonara.jpg": "/static/media/pasta carbonara.034ee33a4051aaeba444.jpg",
     "static/media/oblepiha rosmary tea.jpg": "/static/media/oblepiha rosmary tea.3cfd0e7ee5595d94896f.jpg",
+    "static/media/croque madame.jpg": "/static/media/croque madame.7aa46d0e88bc424ac5ef.jpg",
+    "static/media/bowl with chicken.jpg": "/static/media/bowl with chicken.7225eee1c22388278294.jpg",
+    "static/media/bowl with salmon.jpg": "/static/media/bowl with salmon.d343923043859cdf3bed.jpg",
     "static/media/batumi coffee.jpg": "/static/media/batumi coffee.7d1db724cc347e48c2a7.jpg",
     "static/media/herbal raspberry tea.jpg": "/static/media/herbal raspberry tea.7a84c3392bf6d7932508.jpg",
+    "static/media/bowl with shrimps.jpg": "/static/media/bowl with shrimps.361317273d57881a3af4.jpg",
     "static/media/сranberry piquant tea .jpg": "/static/media/сranberry piquant tea .0286e58f4004a3b0b960.jpg",
     "static/media/pumpkin matcha raf.jpg": "/static/media/pumpkin matcha raf.7bcc6ad68d32c42552a3.jpg",
     "static/media/oatmeal porridge with banana and crispy granola.jpg": "/static/media/oatmeal porridge with banana and crispy granola.a5042e684fc4616fa7e5.jpg",
@@ -93,9 +103,6 @@
     "static/media/albino armani gewurztraminer trentino.jpg": "/static/media/albino armani gewurztraminer trentino.e94ef2f0e94dfef84cfc.jpg",
     "static/media/matcha orange.jpg": "/static/media/matcha orange.720612faf6ec2d42ee7c.jpg",
     "static/media/lemonade georgian.jpg": "/static/media/lemonade georgian.b737877676da88cb4819.jpg",
-    "static/media/bowl with chicken.jpg": "/static/media/bowl with chicken.25e503a600a4781a85fb.jpg",
-    "static/media/bowl with salmon.jpg": "/static/media/bowl with salmon.25e503a600a4781a85fb.jpg",
-    "static/media/bowl with shrimps.jpg": "/static/media/bowl with shrimps.25e503a600a4781a85fb.jpg",
     "static/media/milkshake.jpg": "/static/media/milkshake.6a3b0c3656720c660f62.jpg",
     "static/media/lemonade village.jpg": "/static/media/lemonade village.4432da1dc6e55631af4c.jpg",
     "static/media/pasta + glass of wine.jpg": "/static/media/pasta + glass of wine.e31a7d77f7b5fb924bf3.jpg",
@@ -104,10 +111,10 @@
     "static/media/v60.jpg": "/static/media/v60.de0699d9732d72a5f1b9.jpg",
     "index.html": "/index.html",
     "main.c4e6771d.css.map": "/static/css/main.c4e6771d.css.map",
-    "main.93c49892.js.map": "/static/js/main.93c49892.js.map"
+    "main.e3e8d2b4.js.map": "/static/js/main.e3e8d2b4.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e6771d.css",
-    "static/js/main.93c49892.js"
+    "static/js/main.e3e8d2b4.js"
   ]
 }
