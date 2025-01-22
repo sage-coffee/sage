@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4e6771d.css",
-    "main.js": "/static/js/main.e3e8d2b4.js",
+    "main.js": "/static/js/main.b1f7ad47.js",
     "static/media/french toast with cherries and ice cream.jpg": "/static/media/french toast with cherries and ice cream.ee0d6d0d76df21663897.jpg",
     "static/media/pasta napolitana.jpg": "/static/media/pasta napolitana.137ddf972ab5d2ae7e0e.jpg",
     "static/media/croissant benedict.jpg": "/static/media/croissant benedict.159110ff2bdc7a85704b.jpg",
@@ -14,6 +14,7 @@
     "static/media/bowl with salmon.jpg": "/static/media/bowl with salmon.d343923043859cdf3bed.jpg",
     "static/media/batumi coffee.jpg": "/static/media/batumi coffee.7d1db724cc347e48c2a7.jpg",
     "static/media/herbal raspberry tea.jpg": "/static/media/herbal raspberry tea.7a84c3392bf6d7932508.jpg",
+    "static/media/bruschetta with hummus and dried tomatoes.jpg": "/static/media/bruschetta with hummus and dried tomatoes.2e2c32fc9dfeb811f77f.jpg",
     "static/media/bowl with shrimps.jpg": "/static/media/bowl with shrimps.361317273d57881a3af4.jpg",
     "static/media/сranberry piquant tea .jpg": "/static/media/сranberry piquant tea .0286e58f4004a3b0b960.jpg",
     "static/media/pumpkin matcha raf.jpg": "/static/media/pumpkin matcha raf.7bcc6ad68d32c42552a3.jpg",
@@ -111,10 +112,10 @@
     "static/media/v60.jpg": "/static/media/v60.de0699d9732d72a5f1b9.jpg",
     "index.html": "/index.html",
     "main.c4e6771d.css.map": "/static/css/main.c4e6771d.css.map",
-    "main.e3e8d2b4.js.map": "/static/js/main.e3e8d2b4.js.map"
+    "main.b1f7ad47.js.map": "/static/js/main.b1f7ad47.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e6771d.css",
-    "static/js/main.e3e8d2b4.js"
+    "static/js/main.b1f7ad47.js"
   ]
 }
