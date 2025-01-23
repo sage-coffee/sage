@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4e6771d.css",
-    "main.js": "/static/js/main.b1f7ad47.js",
+    "main.js": "/static/js/main.97ba1a62.js",
     "static/media/french toast with cherries and ice cream.jpg": "/static/media/french toast with cherries and ice cream.ee0d6d0d76df21663897.jpg",
     "static/media/pasta napolitana.jpg": "/static/media/pasta napolitana.137ddf972ab5d2ae7e0e.jpg",
     "static/media/croissant benedict.jpg": "/static/media/croissant benedict.159110ff2bdc7a85704b.jpg",
@@ -112,10 +112,10 @@
     "static/media/v60.jpg": "/static/media/v60.de0699d9732d72a5f1b9.jpg",
     "index.html": "/index.html",
     "main.c4e6771d.css.map": "/static/css/main.c4e6771d.css.map",
-    "main.b1f7ad47.js.map": "/static/js/main.b1f7ad47.js.map"
+    "main.97ba1a62.js.map": "/static/js/main.97ba1a62.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e6771d.css",
-    "static/js/main.b1f7ad47.js"
+    "static/js/main.97ba1a62.js"
   ]
 }
